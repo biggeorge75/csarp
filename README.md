@@ -1,6 +1,6 @@
 # csarp
 
-[web](http://akerekpar.hu) --> [név] (webcím) <- szóköz nélkül
+[web](https://www.bringaboard.hu) --> [név] (webcím) <- szóköz nélkül
 
 ***Infó*** --> 3 csillag
 
