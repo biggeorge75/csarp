@@ -20,7 +20,7 @@ ez meg csak úgy simán írva
 
 ~~Infó~~ --> 2 ~~
 
-![kép alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png) -->  ![kép alt text] (kép elérése)  <- szóköz nélkül
+![kép alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png) -->  ![kép alt text](kép elérése)  <- szóköz nélkül
 
 
 | Tábla                  | 1                       | 2                       |
